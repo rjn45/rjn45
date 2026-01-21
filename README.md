@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Radha<br><br>💻 Currently working as a React Developer Intern  <br>⚛️ Building responsive UI using React, MUI, HTML, CSS, and JavaScript  <br>🌱 Learning advanced React concepts and Spring Boot  <br>🤝 Open to collaborating on frontend and full-stack projects  <br>💬 Ask me about React, JavaScript, Core Java, and Git  <br>⚡ Fun fact: I enjoy fixing UI bugs and improving performance<br><br>🛠 Tech Stack<br>Frontend: React, JavaScript, HTML, CSS, MUI  <br>Backend: Core Java, Spring Boot (Learning)  <br>Database: MySQL  <br>Tools: Git, GitHub, VS Code, Postman<br>
-
+👋 Hi, I'm Radha<br><br>💻 Currently working as a React Developer Intern  <br>⚛️ Building responsive UI using React, MUI, HTML, CSS, and JavaScript  <br>🌱 Learning advanced React concepts and Spring Boot  <br>🤝 Open to collaborating on frontend and full-stack projects  <br>💬 Ask me about React, JavaScript, Core Java, and Git  <br>⚡ Fun fact: I enjoy fixing UI bugs and improving performance<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-nayak-0b16b2241) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajanayakaa52@gmail.com) 
